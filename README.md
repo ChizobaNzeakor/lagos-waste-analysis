@@ -19,9 +19,48 @@ This project explores waste infrastructure, emissions, and spatial accessibility
 | [lagos_buildings_waste_infrastructure.ipynb](https://github.com/ChizobaNzeakor/lagos-waste-analysis/blob/main/lagos_buildings_waste_infrastructure.ipynb) | Map waste infrastructure and buildings across Lagos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChizobaNzeakor/lagos-waste-analysis/blob/main/lagos_buildings_waste_infrastructure.ipynb) |
 
 ---
-## 🚀 Run Everything in Binder
+## 🚀 Run the Notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChizobaNzeakor/lagos-waste-analysis/main)
+- Open locally using **Jupyter Notebook** or **JupyterLab**
+- Launch in **Google Colab** by pasting this repo's notebook URL
+- Use **Binder** (requires repo + environment config) for full reproducibility
+
+---
+
+## 🔗 Key Libraries
+
+- `osmnx`: for querying OpenStreetMap data
+- `geopandas`: for spatial data handling
+- `folium`: for interactive mapping
+- `networkx`: for graph-based accessibility analysis
+- `matplotlib`, `contextily`: for static map visualization
+
+---
+
+## 📌 Project Goals
+
+- Evaluate gaps in legal waste service infrastructure
+- Map building footprints and waste sites
+- Analyze spatial accessibility and environmental inequality
+- Provide a reproducible, open-source framework for Lagos spatial planning
+
+---
+
+## 📚 References
+
+- [OSMNX](https://osmnx.readthedocs.io)
+- [GeoPandas](https://geopandas.org)
+- [Folium](https://python-visualization.github.io/folium)
+- IPCC Guidelines for Greenhouse Gas Inventories
+- Lagos Waste Management Authority (LAWMA)
+
+---
+
+## ❓ Questions to Explore
+
+- What spatial inequality exists in access to legal waste infrastructure?
+- How do informal dumpsites align with dense residential areas?
+- How can remote sensing validate or enhance infrastructure datasets?
 
 
 
