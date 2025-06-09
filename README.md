@@ -18,6 +18,7 @@ This project explores waste infrastructure, emissions, and spatial accessibility
 | [lagos_state_boundary_extraction.ipynb](https://github.com/ChizobaNzeakor/lagos-waste-analysis/blob/main/lagos_state_boundary_extraction.ipynb) | Extract Lagos boundary from OpenStreetMap using OSMNX | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChizobaNzeakor/lagos-waste-analysis/blob/main/lagos_state_boundary_extraction.ipynb) |
 | [lagos_buildings_waste_infrastructure.ipynb](https://github.com/ChizobaNzeakor/lagos-waste-analysis/blob/main/lagos_buildings_waste_infrastructure.ipynb) | Map waste infrastructure and buildings across Lagos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChizobaNzeakor/lagos-waste-analysis/blob/main/lagos_buildings_waste_infrastructure.ipynb) |
 
+
 ---
 ## 🚀 Run the Notebooks
 
